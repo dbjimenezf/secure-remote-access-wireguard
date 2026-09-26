@@ -2,6 +2,12 @@
 
 ## Architecture Overview
 
+### Network Architecture
+
+The following diagram represents the logical architecture of the proposed VPN infrastructure.
+
+![Secure Remote-Access VPN Architecture](../diagrams/network-architecture.png)
+
 The proposed architecture provides secure remote access to the company's internal network through a centralized WireGuard VPN server.
 
 Remote users connect to the VPN through the Internet. The VPN traffic reaches the corporate network through the network perimeter and is handled by the WireGuard server.
