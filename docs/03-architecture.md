@@ -12,7 +12,7 @@ The WireGuard server provides access to authorized users and connects the VPN en
 
 The following diagram represents the logical architecture of the proposed VPN infrastructure.
 
-![Secure Remote-Access VPN Architecture](diagrams/secure-remote-access-wireguard-architecture.drawio.png)
+![Secure Remote-Access VPN Architecture](../diagrams/secure-remote-access-wireguard-architecture.drawio.png)
 
 ## Main Components
 
