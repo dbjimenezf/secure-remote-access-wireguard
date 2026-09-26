@@ -6,7 +6,7 @@
 
 The following diagram represents the logical architecture of the proposed VPN infrastructure.
 
-![Secure Remote-Access VPN Architecture](../diagrams/network-architecture.png)
+![Secure Remote-Access VPN Architecture](../diagrams/secure-remote-access-wireguard-architecture.drawio.png)
 
 The proposed architecture provides secure remote access to the company's internal network through a centralized WireGuard VPN server.
 
